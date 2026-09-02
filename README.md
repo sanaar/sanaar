@@ -1,6 +1,8 @@
-<h3 align="center">hey, I'm Sanaa 👋</h3>
+<h3 align="center">⋆｡°✩ hey, I'm Sanaa ⋆｡°✩</h3>
 
+<p align="center">
 <img src="https://media.tenor.com/Orpnd9fDEvgAAAAj/wave-hi.gif" width="150">
+</p>
 
 <p align="center">
 CS + Software Engineering student at UW Bothell (minoring in Business Administration), graduating June 2027.<br>
@@ -24,12 +26,6 @@ I like building things and figuring out how to make them feel less clunky for wh
 
 <br>
 
-### ⋆⁺₊ tech I use most
-
-Java, Python, SQL, React, TypeScript
-
-<br>
-
 ### ⋆｡°✩ find me here
 
 - 🌐 Portfolio: [link]
@@ -38,4 +34,3 @@ Java, Python, SQL, React, TypeScript
 <br>
 
 <p align="center"><i>always happy to talk, feel free to reach out!</i></p>
-
