@@ -14,7 +14,7 @@ I like building things and figuring out how to make them feel less clunky for wh
 ### ⋆｡°✩ what I've been doing lately
 - Working on an Azure-based HR chatbot built with React + TypeScript
 - STARS Peer Coach at UW Bothell and BWiSE Event Coordinator
-- Currently looking at internship/full-time roles for after graduation
+- Looking for internship and new grad roles
 
 <br>
 
