@@ -1,4 +1,4 @@
-<h3 align="center">⋆｡°✩ hey, I'm Sanaa ⋆｡°✩</h3>
+<h3 align="center">⋆｡°✩ 🌸 hey, I'm Sanaa 🌸 ⋆｡°✩</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/Orpnd9fDEvgAAAAj/wave-hi.gif" width="150">
@@ -18,18 +18,26 @@ I like building things and figuring out how to make them feel less clunky for wh
 
 <br>
 
-### ⋆｡°✩ a few projects I'm proud of
+### ⋆｡°✩ some projects I have made
 
-- [Before I Forget](#)
-- [InterviewBuddy](#)
-- [AskMyRepo](#)
+- [Before I Forget](https://github.com/sanaar/Before_I_Forget)
+- [InterviewBuddy](https://github.com/sanaar/InterviewBuddy)
+- [AskMyRepo](https://github.com/sanaar/AskMyRepo)
+
+<br>
+
+### ⋆⁺₊ tech I use most
+
+Java, Python, SQL, React, TypeScript
 
 <br>
 
 ### ⋆｡°✩ find me here
 
-- 🌐 Portfolio: https://sanaar.github.io/portfolio-website/
-- 💼 LinkedIn: https://www.linkedin.com/in/sanaa-rahmat/
+<p align="center">
+<a href="https://sanaar.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sanaa-rahmat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <br>
 
