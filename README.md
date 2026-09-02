@@ -9,12 +9,14 @@ CS + Software Engineering student at UW Bothell (minoring in Business Administra
 I like building things and figuring out how to make them feel less clunky for whoever's actually using them.
 </p>
 
+<br>
 
 ### ⋆｡°✩ what I've been doing lately
 - Working on an Azure-based HR chatbot built with React + TypeScript
 - STARS Peer Coach at UW Bothell and BWiSE Event Coordinator
 - Looking for internship and new grad roles
 
+<br>
 
 ### ⋆｡°✩ some projects I have made
 
@@ -22,11 +24,13 @@ I like building things and figuring out how to make them feel less clunky for wh
 - [InterviewBuddy](https://github.com/sanaar/InterviewBuddy)
 - [AskMyRepo](https://github.com/sanaar/AskMyRepo)
 
+<br>
 
 ### ⋆⁺₊ tech I use most
 
 Java, Python, SQL, React, TypeScript
 
+<br>
 
 ### ⋆｡°✩ find me here
 
