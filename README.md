@@ -28,8 +28,8 @@ I like building things and figuring out how to make them feel less clunky for wh
 
 ### ⋆｡°✩ find me here
 
-- 🌐 Portfolio: [link]
-- 💼 LinkedIn: [link]
+- 🌐 Portfolio: https://sanaar.github.io/portfolio-website/
+- 💼 LinkedIn: https://www.linkedin.com/in/sanaa-rahmat/
 
 <br>
 
